@@ -1,10 +1,11 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/amin-khademi">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Amin Khademi" /></a>
+</p>
 
 ### 🧰 Language and Tolls 
 
-<img aligm="left" alt="Flutter" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-          
-<img aligm="left" alt="Flutter" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg"/>
+
 
 <br />
 <!--
