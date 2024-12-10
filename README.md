@@ -3,7 +3,12 @@
  **`Flutter Developer`**
  </br>
  ###
-  I'm Amin and interested in flutter and develop my applications with Flutter Cross-Platform framework.
+  A highly skilled Flutter Developer with 3+ years
+of experience in designing and developing
+user-friendly mobile applications. Proficient in
+Dart, GetX, BLoC, and clean-architecture
+principles. Passionate about delivering quality
+code and seamless user experiences.
 
 </a>
     
